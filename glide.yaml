@@ -12,8 +12,6 @@ import:
   version: ^1.1.2
 - package: github.com/noprom/crypt
   version: ^0.0.3
-  subpackages:
-  - config
 - package: github.com/pelletier/go-toml
   version: ^1.4.0
 - package: github.com/spf13/afero
